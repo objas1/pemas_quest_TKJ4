@@ -1,0 +1,20 @@
+# dollar ke rupiah dollar = rupiah
+
+dollar = 2
+rupiah = 14.999
+idr = dollar * rupiah
+print("1 dollar jika dirupiahkan sebesar", idr)
+
+# uero ke yen uero * yen
+
+uero = 14
+yen =136.888
+jpy = uero * yen
+print("uero jika di konversikan ke yen sebesar", jpy)
+
+# won ke rupiah won * rupiah
+
+won = 22
+rupiah =22
+jpy = won * rupiah
+print("won jika di konversikan ke rupiah sebesr",idr)
