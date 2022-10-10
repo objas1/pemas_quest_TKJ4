@@ -1,0 +1,28 @@
+# Membuat Tipe data koleksi
+
+koleksi_data_str = ["pisang" , "Mangga" , "Jambu" , "Semangka"]
+
+koleksi_data_int = [200, 300, 400,500]
+
+koleksi_data_mix = ["Rizky Billar", 100, True, "Reza Arap"]
+
+print("Koleksi data Stirng:", koleksi_data_int)
+
+print("Koleksi data integer:",koleksi_data_int)
+
+print("koleksi data campuran:",koleksi_data_mix)
+
+#buatlah 3 kumpulan data: Nama Hewan, Nilai UTS, Nama teman sembangku kalian
+
+
+koleksi_data_str = ["kucing" , "tupai" , "babi" , "monyet"]
+
+koleksi_data_int = [100, 200, 300,]
+
+koleksi_data_mix = ["Joko1", 100, True, "Joko2"]
+
+print("Koleksi data  Stirng :",koleksi_data_int)
+
+print("Koleksi data integer  :",koleksi_data_int)
+
+print("koleksi data campuran:",koleksi_data_int)
